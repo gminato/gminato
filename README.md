@@ -10,7 +10,7 @@ Software Developer
 * ✉️  You can contact me at [harshit.3851@gmail.com](mailto:harshit.3851@gmail.com)
 * 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a CS background, but most of the credit goes to Google and Stack Overflow xD
+* ⚡  I have a CS background, but most of the credit goes to the awesome tech community over the internet.
 
 <a href="https://www.twitter.com/yellowflash_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yellowflash_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/yellowflash_dev?logo=twitter&style=fo
 ### Skills
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
   &nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   &nbsp;&nbsp;&nbsp;
