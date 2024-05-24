@@ -1,10 +1,10 @@
-Hi 👋 My name is Harshit Gupta
+Hi 😎 My name is Harshit Gupta
 ==============================
 
 Software Developer
 -----------------
    
-   "Playing with code showed me how to create cool stuff and connect with tech-loving folks."
+   Playing with code showed me how to create cool stuff and connect with tech-loving folks.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [harshit.3851@gmail.com](mailto:harshit.3851@gmail.com)
