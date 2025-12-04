@@ -12,9 +12,9 @@ Software Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a CS background, but most of the credit goes to the awesome tech community over the internet.
 
-<a href="https://www.twitter.com/yellowflash_dev" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/yellowflash_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yellowflash_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
-/></a>
+/></a> -->
 
 ### Skills
 
